@@ -1,2 +1,2 @@
-# BankaMusteriSiralamaSistemi
+# Banka Musteri Siralama Sistemi
  
