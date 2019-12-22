@@ -1,0 +1,10 @@
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\bin\Debug\VeriYapilariOdevV2.exe.config
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\bin\Debug\VeriYapilariOdevV2.exe
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\bin\Debug\VeriYapilariOdevV2.pdb
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\obj\Debug\VeriYapilariOdevV2.csprojAssemblyReference.cache
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\obj\Debug\VeriYapilariOdevV2.Form1.resources
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\obj\Debug\VeriYapilariOdevV2.Properties.Resources.resources
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\obj\Debug\VeriYapilariOdevV2.csproj.GenerateResource.cache
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\obj\Debug\VeriYapilariOdevV2.csproj.CoreCompileInputs.cache
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\obj\Debug\VeriYapilariOdevV2.exe
+C:\Users\maski\Desktop\GITHUB\VeriYapilariOdevV2\VeriYapilariOdevV2\obj\Debug\VeriYapilariOdevV2.pdb

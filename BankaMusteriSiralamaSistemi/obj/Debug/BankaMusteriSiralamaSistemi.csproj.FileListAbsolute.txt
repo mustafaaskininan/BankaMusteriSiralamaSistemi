@@ -1,0 +1,10 @@
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\bin\Debug\BankaMusteriSiralamaSistemi.exe.config
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\bin\Debug\BankaMusteriSiralamaSistemi.exe
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\bin\Debug\BankaMusteriSiralamaSistemi.pdb
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\obj\Debug\BankaMusteriSiralamaSistemi.csprojAssemblyReference.cache
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\obj\Debug\BankaMusteriSiralamaSistemi.Form1.resources
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\obj\Debug\BankaMusteriSiralamaSistemi.Properties.Resources.resources
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\obj\Debug\BankaMusteriSiralamaSistemi.csproj.GenerateResource.cache
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\obj\Debug\BankaMusteriSiralamaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\obj\Debug\BankaMusteriSiralamaSistemi.exe
+C:\Users\maski\Desktop\SON\GITHUB\VeriYapilariOdevV2\BankaMusteriSiralamaSistemi\obj\Debug\BankaMusteriSiralamaSistemi.pdb
